@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Democritus ridens, or, Comus and momus a new jest and earnest pratling concerning the times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37529</idno>
+            <idno type="STC">Wing D977</idno>
+            <idno type="STC">ESTC R29707</idno>
+            <idno type="EEBO-CITATION">11195933</idno>
+            <idno type="OCLC">ocm 11195933</idno>
+            <idno type="VID">46674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46674)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Democritus ridens, or, Comus and momus a new jest and earnest pratling concerning the times.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fra. Smith, jun. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of print.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:46674:1"/>
+            <head>Democritus Ridens: OR, <hi>Comus and Momus.</hi>
+            </head>
+            <head type="sub">A new JEST and EARNEST Pratling concerning the Times.</head>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>HOW now <hi>Momus,</hi> what turn'd Porter?</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>Any thing for a quiet life theſe times: Better carry Bur<g ref="char:EOLhyphen"/>thens among Proteſtant Diſſenters, than grind at the Mill like <hi>Sampſon,</hi> with my eyes out among <hi>Phi<g ref="char:EOLhyphen"/>liſtian</hi> Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Prithee what haſt got there?</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>A bundle of ſtollen Stuff.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Art thou turn'd Thief theſe Tory Times? have a care good Brother, of going the <hi>Jeſuits</hi> high way to Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>What, to the Tripple Tree? there to get a Crown for Villany? and to be made a Martyr and a Saint for Treaſon? n'er fear, this is but pettit Lar<g ref="char:EOLhyphen"/>ceny and under the value of 12. <hi>d.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Whence did you Steal it?</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>Out of the Warehouſe of the Anſwerer of the <hi>Character of a Popiſh Succeſſor.</hi> 'Tis a bundle of raſh Nonſence, new water'd and preſſed by <hi>Nat. Thompſon,</hi> and vended for good Sence and Reaſon: <hi>Fallere fallentem non eſt Fruus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Nonſence, ſay you? I thought there had been no Haberdaſhers of ſuch ſmall Wares among the Papiſts: I thought the Diſſenting Proteſtants had got a Patent for ſelling Nonſence only.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>You ſee Sir you are decieved; for I aſſure you that this Mr. Anſwerers Ware-houſe was full of it, and I only took a ſmall Fardel or two that came next hand.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>What do you intend to do with it?</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>Fraught <hi>Heaclitus</hi> his Ship with it; he'l ſend it to <hi>Rome</hi> to be new dy'd, and then put it off for moſt excellent Papiſtical Sence and Reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Prithee let's ſee ſome of it.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>That you ſhall, and hear it too if you pleaſe, for it rattles like gum'd Taffaty; look here; firſt by the way of Nonſence.</p>
+               <p>
+                  <list>
+                     <item>That the People of <hi>England</hi> may ſit down with their Hands in their Pockets, for that 'tis impoſſi<g ref="char:EOLhyphen"/>ble either the Pope, the Devil, or any Succeſſor, ſhould bring in Popery. <hi>p.</hi> 2.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>O Sir, there is a woof of ſence in this ſtuff, the meaning is, becauſe 'tis in a manner brought in already.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>That's a Jeſt Sir—ſee another piece, hold it to the light, and ſee if there be e're a thred of Sence or Reaſon in it.</p>
+               <p>
+                  <list>
+                     <item>
+                        <hi>Item.</hi> The more Power a Popiſh Succeſſor has, the leſs able he is to accompliſh his Will.</item>
+                     <item>3. Here is: A Popiſh Succeſſor can never at<g ref="char:EOLhyphen"/>tempt to bring in Popery, though he has an Army, becauſe he will be in fear of the People.</item>
+                     <item>4. The perſonal excellencies of a Popiſh Succeſſor, ought to be an Argument for his legal admiſſion.</item>
+                     <item>5. That it is ſo far from Sence, for any one to believe or think that a Popiſh King in <hi>England,</hi> can be any advantage or do any kindneſs to the deſigns of <hi>Jeſuitical</hi> Inſtruments for bringing in of Popery, that it is the greateſt Reaſon in the World, to be<g ref="char:EOLhyphen"/>lieve that he muſt of neceſſity be the greateſt occaſi<g ref="char:EOLhyphen"/>on of their Deſtruction.</item>
+                     <item>6. That to keep out a Popiſh Succeſſor is no leſs than <hi>Leſae Majeſtatis,</hi> and down right Treaſon, yet it is in the power of every Subject in the three King<g ref="char:EOLhyphen"/>doms, to be a Defender of the Proteſtant Religi<g ref="char:EOLhyphen"/>on, if it want it.</item>
+                     <item>7. That all Proteſtants may be aſſured a Popiſh Succeſſor will infallibly be the Cauſe of the De<g ref="char:EOLhyphen"/>ſtruction of the <hi>Jeſuits,</hi> by this Maxim, <hi>Suis &amp; ipſa Roma viribus ruit.</hi> p. 5.</item>
+                     <item>8. That a Popiſh Succeſſor can never bring in the Popiſh Religion, becauſe his Coronation Oath obliges him to the contrary.</item>
+                     <item>9. He that Writes againſt a Popiſh Succeſſor, is <hi>ipſo facto,</hi> either a diſguiſed Prieſt, or a Papiſt in <hi>Maſquerade.</hi> p. 7.</item>
+                     <item>10. Becauſe the late Popiſh Plot did not take effect, therefore no other in this Age can be effect<g ref="char:EOLhyphen"/>ed. <hi>p.</hi> 8.</item>
+                     <item>11. That a Popiſh Succeſſor is the beſt defence in the World againſt Arbitrary Government, for if he would, he could not ſet it up, becauſe of the watchful ſuſpicion of the Proteſtants. <hi>p.</hi> 8.</item>
+                     <item>12. That 'tis not in the Power of Sheriffs, Juſti<g ref="char:EOLhyphen"/>ces of the Peace, Judges, and other Officers, be they never ſo Corrupt, or be they of what Religi<g ref="char:EOLhyphen"/>on they will, to bring in Popery under a Popiſh Suc<g ref="char:EOLhyphen"/>ceſſor, becauſe hopes of preferment or fear of pu<g ref="char:EOLhyphen"/>niſhment will deter them. <hi>p.</hi> 8.</item>
+                     <item>13. A Popiſh Succeſſor can never bring in Pope<g ref="char:EOLhyphen"/>ry, becauſe the Tyde runs againſt it, and therefore it will be Folly and Madneſs for him to attempt it. <hi>p.</hi> 9.</item>
+                     <item>14. That becauſe Queen <hi>Mary</hi> could not bring in Popery, therefore no other Popiſh Succeſſor can bring in Popery. <hi>p.</hi> 9.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>I muſt interrupt you; I thought Q. <hi>Mary</hi> had ſet up Popery.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>The meaning of the Anſwerer is, as I ſup<g ref="char:EOLhyphen"/>poſe, ſhe did not ſet it faſt enough: She ſhould have Burnt all the Proteſtants, and according to St. <hi>Coleman</hi>'s Principles, not left any alive: But hear how good a Navigator he is.</p>
+               <p>
+                  <list>
+                     <item>15. That Beaſts running on the contrary ſide of the Ship, when ſhe leans to the Lee, or by the Lar<g ref="char:EOLhyphen"/>board, ſinks the Ship: <hi>p.</hi> 10.</item>
+                  </list>
+               </p>
+               <p>Here are other Fardels, which I ſtole from ſeve<g ref="char:EOLhyphen"/>ral of <hi>Heraclitus</hi> his Merchants of Popiſh ſmall Wares. As,
+<list>
+                     <item>1. That to make the People of <hi>England</hi> of one mind, is to bring in Popery, and the way to make
+<pb facs="tcp:46674:2" rendition="simple:additions"/>all Diſſenters conform to the Church of <hi>England,</hi> is to make them firſt Conform to the Church of <hi>Rome.</hi> That they being <hi>Jews,</hi> may firſt be <hi>Chriſtians</hi> be<g ref="char:EOLhyphen"/>fore they be <hi>Musſle-men.</hi>
+                     </item>
+                     <item>2. That the moſt prudent way, not to fear any Invaſion from the King of <hi>France,</hi> is not to believe it.</item>
+                     <item>3. That the true way of ſecuring the Church of <hi>England</hi> againſt the <hi>Peſbyterians,</hi> is to joyn with the <hi>Papists</hi> to bring in Popery.</item>
+                     <item>4. That the beſt way to help the King to Money, is to adviſe him to Prorogue his Parliaments.</item>
+                     <item>5. That the beſt way of ſearching into the late hor<g ref="char:EOLhyphen"/>rid Plot is to Jear the People out of the belief of it.</item>
+                     <item>6. That to be a true Church of <hi>England</hi> man, is to rail againſt all but the Papiſts.</item>
+                     <item>7. That 'tis the beſt way to maintain Reputation abroad, by going together by the Ears at home.</item>
+                     <item>8. That to give Honour and Reputation to the Supream Councel of the Nation, is to laugh at their Votes, and to term them factious.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jeſt.</speaker>
+               <p>So much for your Nonſence, good Mr. <hi>Mo<g ref="char:EOLhyphen"/>mus;</hi> prithee, what Bag is that? is it ſtolen Wares too?</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>No, they are a few Nuts for <hi>Heraclitus</hi> to crack.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſt.</speaker>
+               <p>Out away, they are Queries.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>Yes, Query Nuts, ſuch as <hi>Heraclitus</hi> his Squirrils, <hi>Jeſt</hi> and <hi>Earneſt,</hi> are weekly cracking in the ears of the People.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſt.</speaker>
+               <p>Let's have an handfull of them; I'le play at Cob-Que<g ref="char:EOLhyphen"/>ry with them.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>
+                  <list>
+                     <item>Whether <hi>Heraclitus</hi> his Fools Coat be long enough to hide his Knaves Jump?</item>
+                     <item>2. Whether the Anſwerer of the <hi>Character of the Popiſh Succeſſor</hi> was not miſtaken, <hi>pag.</hi> 12. where he ſays, that <hi>Dagons</hi> Hands being broken off, he could have no Power to hurt the <hi>Iſraelites;</hi> When he ſhould have ſaid, according to the Scrip<g ref="char:EOLhyphen"/>ture, that his Head being off as well as his Hands, he could not then hurt the <hi>Iſraelites?</hi>
+                     </item>
+                     <item>3. Whether <hi>Dagon</hi> could not have found hands to have hurt the <hi>Iſraelites,</hi> if his Head had been ſtill remaining?</item>
+                     <item>4. Whether all Laws to tye the hands of a Popiſh Succeſſor, will not prove like <hi>Sampſon</hi>'s Cords, if ever he get into the Throne?</item>
+                     <item>5. Whether the beſt way to eſtabliſh the Church of <hi>England,</hi> (according to the <hi>Maxims</hi> of the Anſwerer of the <hi>Character of a Popiſh Succeſſor</hi>) be not to ſet up a Popiſh Succeſſor?</item>
+                     <item>6. Whether the maintaining and preſerving of Property, was not the firſt and main end of Government?</item>
+                     <item>7. Whether the Grievances of the People do not ſound louder than the Checkling Laughter of Mr. <hi>Jeſt,</hi> or the Tooting horn of Mr. <hi>Tantivie?</hi>
+                     </item>
+                     <item>8. Whether according to the Opinion of <hi>Heraclitus,</hi> it be not a certain mark of a Rebel and a Traytor of 41. to Complain of Grievances in 81. or ever hereafter.</item>
+                     <item>9. Whether <hi>Heraclitus</hi> does not miſtake himſelf, who <hi>Numb.</hi> 2. ſays, that thoſe who Murthered the late King, never repented them of it (meaning the <hi>Presbyterians</hi>) and yet <hi>Numb.</hi> 8. he owns Mr. <hi>Love</hi> was Beheaded, for endeavouring with the <hi>Presbyterians</hi> the bringing in of his Majeſty? and whether the endeavouring to reſtore his Majeſty to his right, ſhew'd not that they were the true Friends of the Son; and a ſign of their not approving the Murther of the Father?</item>
+                     <item>10. Whether a man may be properly ſaid to Repent of doing that he never did Commit, nor ever did approve of?</item>
+                     <item>11. Whether the evil Actions of a few Rebels, ought in Ju<g ref="char:EOLhyphen"/>ſtice to be imputed to the whole Body of the <hi>Presbyterians?</hi> and whether a third part of the Nation ſhould therefore be brand<g ref="char:EOLhyphen"/>ed by <hi>Heraclitus</hi>'s <hi>Jeſt</hi> and <hi>Touzers Earneſt,</hi> with the odious Names of 41. Top and Top-Gallant Villains and Rebels?</item>
+                     <item>12. Whether his Majeſty has not had twenty years experi<g ref="char:EOLhyphen"/>ence of the Loyalty and peaceable temper of the Diſſenters from the Church of <hi>England?</hi> and whether <hi>Heraclitus</hi> and others do not endeavour all they can to render them otherwiſe?</item>
+                     <item>13. Whether a Worm that is trod on, by the Law of Nature, may not ſignifie by ſtrugling its Oppreſſion, without being call d Rebel and Traytor?</item>
+                     <item>14. Whether a Water-man, who looks one way and rows another, be not a true Emblem of a right <hi>Tantivy,</hi> who preaches one thing and Acts quite contrary?</item>
+                     <item>15. Whether <hi>B. Took</hi> be Fleſh, Fiſh, or good red Herring?</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Theſe will ſerve me to play at Puſh-quaery with <hi>Hi<g ref="char:EOLhyphen"/>raclitus:</hi> But look you, to requite your Kindneſs, here is a Copy of Verſes for you; and as Mr. <hi>Jeſt</hi> ſays, they have made me go all of one ſide with the weight of 'um.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>I have known the Rogue go ſo this eight weeks, he is made as crooked as a <hi>Lesbian</hi> Squire; and has a bunch of Iniquity at hs Back, as big as a Camels. What are they? I love the <hi>Muſes</hi> mightily—This is Mournful <hi>Melpomine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>No Sir: 'Tis an Ode: <hi>Heraclitus</hi>'s laſt <hi>Pindarique</hi> tranſ<g ref="char:EOLhyphen"/>vers'd. Here read it your ſelf, for I am at this time in haſte.</p>
+            </sp>
+            <sp>
+               <speaker>Mom.</speaker>
+               <p>Reads. <hi>The Proſpect, a Pindaroque Ode.</hi>
+               </p>
+               <lg>
+                  <l>Ah ſtubborn Iſle,</l>
+                  <l>So late from <hi>Popiſh</hi> Plottings freed,</l>
+                  <l>(Old <hi>Antichriſt</hi>'s moſt precious Meed)</l>
+                  <l>Can'ſt thou the havock, and the Spoyle</l>
+                  <l>
+                     <hi>Rome</hi> did intend, ſo ſoon forget,</l>
+                  <l>So lately ſcap'd out of their Net,</l>
+                  <l>Who would have brought a fiery Law,</l>
+                  <l>And fry'd your Fleſh and Bones with Straw?</l>
+                  <l>Thoſe cunning Cheats, and State Magicians,</l>
+                  <l>
+                     <hi>Rome's</hi> Religious Politicians,</l>
+                  <l>VVho ſubtilly can blind your ſight,</l>
+                  <l>And make you call bright Day, black Night,</l>
+                  <l>VVith their black Serpent VVand of Superſtition.</l>
+                  <l>O had they power to their will,</l>
+                  <l>They'd ſhew their skill;</l>
+                  <l>In vain ſhould the amazed Throng</l>
+                  <l>Seek to avoyd their Power,</l>
+                  <l>Or fly before that they were ſtung;</l>
+                  <l>Theſe Serpents we ſhould ſee e're long,</l>
+                  <l>
+                     <hi>Moſes</hi> and <hi>Aaron, King</hi> and <hi>Church</hi> devoure.</l>
+               </lg>
+               <lg>
+                  <l>Then every River, and every Flood,</l>
+                  <l>Would ſoon be turn'd to Blood,</l>
+                  <l>The croaking Frogs of horrid Fears</l>
+                  <l>Should ſound our Dangers in our ears;</l>
+                  <l>Then ſwarms of Lice, and gilded Flyes,</l>
+                  <l>With ſuperſtitious Sorceries;</l>
+                  <l>Monks, Fryars, Prieſts, and Nuns, would then come in,</l>
+                  <l>And turn Religion into ſin:</l>
+                  <l>A grievous Murrain then would follow next,</l>
+                  <l>And th'row the Nation fly,</l>
+                  <l>Both great and ſmall ſhould dye,</l>
+                  <l>With Boyls and Blains the State perplext</l>
+                  <l>Should be, with Lordly Prelates vext;</l>
+                  <l>Who would Rub the Kingdoms Soar,</l>
+                  <l>Till all its Body Politick were hid in goar.</l>
+               </lg>
+               <lg>
+                  <l>A dreadful Train</l>
+                  <l>Of Curſes, ſhould upon us rain</l>
+                  <l>With many a Charm and curſed Spell,</l>
+                  <l>Sending Diſſenters ſtrait to Hell;</l>
+                  <l>And true Religion would be ſlain,</l>
+                  <l>And <hi>Albion</hi> look like <hi>Sodom</hi>'s burning Plain.</l>
+                  <l>This would be done,</l>
+                  <l>If <hi>Rome</hi> ſhould mount the <hi>Engliſh</hi> Throne,</l>
+                  <l>And with her Arts prevail,</l>
+                  <l>We ſhould devoured be by Head and Tail;</l>
+                  <l>VVhole ſwarms of Locuſts would bear ſway,</l>
+                  <l>VVhoſe Clouds would darken all the Light of Day,</l>
+                  <l>The Peoples poor remains they'd eat away.</l>
+                  <l>But oh! the plague of plagues, theſe Traitors firſt,</l>
+                  <l>In Treaſon Nurſt,</l>
+                  <l>Theſe damn'd deſtroying Devils, firſt muſt wound,</l>
+                  <l>Our Royal Head, and lay it on the ground:</l>
+                  <l>Not long ſince this they did attempt to doe,</l>
+                  <l>And ſtill the ſame with bloody Minds purſue.</l>
+                  <l>Look back ye treacherous <hi>Jeſuites,</hi> ſay,</l>
+                  <l>Remember Forty eight, and Forty one,</l>
+                  <l>Look back, whileſt <hi>Rome</hi> aſcends the Throne,</l>
+                  <l>And ſeizing on the Crowned Prey,</l>
+                  <l>The Royal Victim, and another Martyr ſlay.</l>
+               </lg>
+            </sp>
+            <div type="part">
+               <head>Advertiſements.</head>
+               <p>IF any one be deſirous to be furniſh'd with a pair of <hi>Tantivy</hi> Spectacles, fitted for <hi>Popiſh</hi> Noſes and Eyes, for all Ages and Sexes, which render Old things New, ſmall things Great, Men Monſters, Loyalty Rebellion, the People Monkies, Truth Error, and Religion a May-Game, let them repair to Mr. <hi>Jeſt</hi> and <hi>Earneſt,</hi> Spectacle-makers, and they may be fitted very cheap.</p>
+               <p>IF any one has a deſire to be furniſhed with Invented Let<g ref="char:EOLhyphen"/>ters, lying Stories, falſe Addreſſes, or Rhetorical Libels, let them repair to Secretary <hi>Thompſon</hi> at the Popes <hi>Croſs-Keyes,</hi> who makes profeſſion of writing Preſidents, and he will give them ample ſatisfaction.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Fra. Smith</hi> Jun. at the <hi>Elaphant</hi> and <hi>Caſtle</hi> in <hi>Cornhil.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
